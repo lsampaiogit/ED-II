@@ -15,3 +15,4 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 # ED-II
 
 https://www.youtube.com/watch?v=Z6xeWISV_2M&ab_channel=ProfessorIsidro 25min
+https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwYXVsb2R0fGd4OjE4YzEzNmNlNDVlNDAwZGQ
